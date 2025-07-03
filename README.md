@@ -3,7 +3,7 @@
 ![image-removebg-preview (1)](https://github.com/user-attachments/assets/b12dc937-2b7f-4285-87e8-1ec2bb29a60a)
 
 ### Descripción general de AUTO_ZONA:
-Este proyecto trata de crear un parqueadero para la universidad de Antioquia que solo ceda el acceso a automoviles, esto lo haremos a través de un software de consola en Python que permita registrar usuarios; controle el ingreso y salida de vehículos; calcule cobros por horas y cuartos de horas; y genere reportes administrativos. El parqueadero cuenta con una capacidad de 50 celdas de parqueo y opera en una jornada continua de 6:00 a.m. a 12:00 p.m., atendido por 3 personas en turnos de seis horas. Este proyecto tiene como objetivo optimizar el funcionamiento operativo del parqueadero, mediante una solucion tecnológica que facilite la administracion del servicio, mejore la precision en el control de ingresos y egresos, y permita llevar un registro digital confiable y ordenado.
+Este proyecto trata de crear un parqueadero para la universidad de Antioquia que solo ceda el acceso a automóviles, esto lo haremos a través de un software de consola en Python que permita registrar usuarios; controle el ingreso y salida de vehículos; calcule cobros por horas y cuartos de horas; y genere reportes administrativos. El parqueadero cuenta con una capacidad de 50 celdas de parqueo y opera en una jornada continua de 6:00 a.m. a 12:00 p.m., atendido por 3 personas en turnos de seis horas. Este proyecto tiene como objetivo optimizar el funcionamiento operativo del parqueadero, mediante una solución tecnológica que facilite la administración del servicio, mejore la presición en el control de ingresos y egresos, y permita llevar un registro digital confiable y ordenado.
 
 ### Integrantes: 
 #### 1. Nombres:
